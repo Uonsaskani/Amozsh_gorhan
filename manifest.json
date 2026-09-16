@@ -1,0 +1,25 @@
+{
+  "name": "همراه من — مسیر یادگیری و حفظ قرآن",
+  "short_name": "همراه من",
+  "description": "یک تجربه‌ی شخصی و آرام برای یادگیری، حفظ و مرور قرآن کریم",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#061622",
+  "theme_color": "#061622",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
